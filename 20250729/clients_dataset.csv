@@ -1,0 +1,101 @@
+client_id,full_name,date_of_birth,client_type,industry,pep_status,so_funds_desc,so_wealth_doc_type,annual_income,estimated_net_worth,transaction_volume_usd,jurisdiction_risk_level,has_offshore_entities,sanction_list_hit,adverse_media,risk_score,risk_category,last_review_date,next_review_due,operating_country
+C00001,Jason Daniels,1979-03-28,Individual,,No,"Civil engineer, consulting",Trust Deed,73736,9249732,27790,Low,False,True,True,37,Low,2025-04-12,2027-11-19,Netherlands
+C00002,Ana Richard,1982-09-13,Individual,,No,Town planner,Trust Deed,239949,3798379,122757,Medium,False,True,True,45,Medium,2024-08-03,2027-12-13,Czech Republic
+C00003,Barrera PLC Ltd.,,Corporate,Finance,No,Theme park manager,Tax Return,0,1656017,104595,High,True,False,False,63,Medium,2024-11-09,2025-08-04,Slovakia
+C00004,Jesus Knox,1987-08-13,Individual,,No,"Engineer, structural",Tax Return,173709,6167228,156349,Low,True,True,True,68,Medium,2025-05-16,2026-12-29,Norway
+C00005,Morris-Stevenson Ltd.,,Corporate,,Yes,Armed forces logistics/support/administrative officer,Land Title,0,7706962,171640,Medium,False,True,False,68,Medium,2025-05-03,2027-07-08,Iceland
+C00006,Kathleen Johnson,1990-03-06,Individual,,No,Water engineer,Financials,109725,9061380,196136,Medium,True,True,False,29,Low,2025-07-02,2027-02-06,Malta
+C00007,Howard and Sons Ltd.,,Corporate,Manufacturing,No,Horticultural consultant,Tax Return,0,3942788,13414,Low,False,False,False,61,Medium,2024-08-23,2026-07-21,Bulgaria
+C00008,Sarah Eaton,1975-08-06,Individual,,Related,Marine scientist,Audit Report,281740,6737601,173519,Low,False,True,False,60,Medium,2024-10-13,2028-05-31,Hungary
+C00009,Benjamin Smith,1984-07-09,Individual,,No,"Social research officer, government",Financials,229400,6173292,62493,Low,True,False,True,74,High,2025-05-03,2026-08-09,Hungary
+C00010,Janet Marshall,1978-11-10,Individual,,No,English as a foreign language teacher,Financials,53306,6555324,105039,Low,False,False,True,74,High,2025-04-15,2026-12-10,Malta
+C00011,The Lyons Trust,,Trust,Consulting,No,"Engineer, mining",Tax Return,0,5024115,118971,Medium,True,False,True,63,Medium,2025-07-13,2027-12-23,Ireland
+C00012,The Dougherty Trust,,Trust,Investment,No,Proofreader,Trust Deed,0,8617169,164637,High,True,True,False,58,Medium,2024-09-17,2026-09-09,Latvia
+C00013,The Crawford Trust,,Trust,Investment,Related,Television production assistant,Exchange Statement,0,426765,34325,High,False,False,True,61,Medium,2024-12-26,2027-02-07,Finland
+C00014,Evelyn Garcia,1975-03-26,Individual,,Yes,"Designer, ceramics/pottery",Trust Deed,274798,1261193,144645,High,True,True,False,30,Low,2025-03-24,2026-03-30,Lithuania
+C00015,Hendricks-Nichols Ltd.,,Corporate,Consulting,Yes,Food technologist,Financials,0,3474754,191895,Low,False,False,False,47,Medium,2025-02-23,2025-08-11,Spain
+C00016,The Wright Trust,,Trust,Crypto Trading,No,"Librarian, public",Tax Return,0,9970182,150207,Low,True,True,True,63,Medium,2024-09-05,2026-10-23,United Kingdom
+C00017,The Terrell Trust,,Trust,Manufacturing,No,"Restaurant manager, fast food",Land Title,0,1288789,139782,Low,True,True,False,24,Low,2025-05-15,2026-04-28,Austria
+C00018,The Lawson Trust,,Trust,Real Estate,No,Transport planner,Audit Report,0,8035169,111708,Medium,True,True,True,80,High,2024-10-09,2026-03-19,Norway
+C00019,"Mcmahon, Thompson and Martin Ltd.",,Corporate,Crypto Trading,No,Academic librarian,Trust Deed,55795,1751177,20889,Medium,False,False,True,26,Low,2025-03-13,2026-12-10,Portugal
+C00020,Charles Knight,1960-12-19,Individual,,No,Information systems manager,Audit Report,166037,7861611,70485,Low,True,False,True,74,High,2024-10-24,2025-10-22,Croatia
+C00021,The Christensen Trust,,Trust,Consulting,Yes,Broadcast presenter,Audit Report,40860,6918496,132307,High,False,True,False,50,Medium,2025-05-15,2027-10-30,Norway
+C00022,Charles Boone,1993-06-08,Individual,,No,Training and development officer,Exchange Statement,169552,7196887,187607,High,False,False,True,53,Medium,2025-01-04,2026-06-19,Sweden
+C00023,Norma Watson,1976-10-20,Individual,,Related,Oceanographer,Tax Return,184419,1059074,18144,Low,False,True,True,89,High,2025-04-10,2028-04-29,Lithuania
+C00024,Richard Morris,2000-07-02,Individual,,No,Lexicographer,Exchange Statement,82855,9657567,69543,Low,True,False,False,50,Medium,2024-08-01,2028-01-24,Romania
+C00025,Pugh-Sullivan Ltd.,,Corporate,Real Estate,No,Barrister's clerk,Exchange Statement,116820,2295773,181079,Low,False,False,False,53,Medium,2024-10-20,2025-11-06,Finland
+C00026,William Miller,1986-02-16,Individual,,No,"Engineer, site",Tax Return,131754,8587336,74520,High,True,False,True,32,Low,2025-02-18,2026-02-15,Romania
+C00027,Austin-Medina Ltd.,,Corporate,Finance,No,Chief Marketing Officer,Financials,94886,8974152,7050,Medium,False,True,True,58,Medium,2024-08-30,2028-05-13,Netherlands
+C00028,Joshua Soto,1962-01-30,Individual,,Yes,Chief Technology Officer,Land Title,167721,3633779,193117,Medium,False,True,False,39,Low,2024-08-16,2027-04-11,Germany
+C00029,Bennett-Osborne Ltd.,,Corporate,Investment,No,Software engineer,Tax Return,46265,159486,92439,Medium,True,True,True,55,Medium,2025-01-14,2026-02-27,Croatia
+C00030,The Jordan Trust,,Trust,Manufacturing,No,Probation officer,Trust Deed,77194,2600715,148023,Low,True,False,True,29,Low,2025-06-02,2027-11-26,France
+C00031,Charles Carey,1968-03-13,Individual,,No,Fast food restaurant manager,Land Title,130140,4286414,179832,Low,True,False,False,25,Low,2024-09-26,2027-04-17,Iceland
+C00032,Vernon Cox,1960-02-25,Individual,,Yes,Geochemist,Exchange Statement,32995,3109172,198085,High,False,False,True,42,Medium,2025-07-18,2027-07-01,Czech Republic
+C00033,Kenneth Brown,1995-02-22,Individual,,No,"Radiographer, therapeutic",Exchange Statement,136619,3448276,125665,Low,False,False,True,24,Low,2024-09-22,2026-05-15,Ireland
+C00034,Robert Mckinney,1984-01-13,Individual,,No,Interior and spatial designer,Tax Return,166341,5991254,173160,Low,False,False,True,55,Medium,2024-08-15,2025-10-10,Austria
+C00035,Castro Inc Ltd.,,Corporate,Real Estate,No,Catering manager,Tax Return,84131,7390770,95619,High,False,False,True,24,Low,2025-06-19,2026-05-09,United Kingdom
+C00036,The Wilson Trust,,Trust,Real Estate,No,"Teacher, early years/pre",Financials,100263,9133725,185055,Medium,True,False,False,20,Low,2024-10-27,2028-01-10,Portugal
+C00037,The Brown Trust,,Trust,Finance,No,Interpreter,Trust Deed,56023,5138571,137939,Medium,False,False,False,35,Low,2025-07-22,2026-09-03,Sweden
+C00038,The Lynn Trust,,Trust,Finance,No,Hydrologist,Trust Deed,81090,3019694,166353,Low,False,False,True,68,Medium,2025-01-17,2026-11-28,Portugal
+C00039,"Ramos, Owens and Johnson Ltd.",,Corporate,Real Estate,No,Chiropodist,Exchange Statement,107221,7511939,120909,Low,True,False,True,61,Medium,2024-08-21,2027-11-07,Finland
+C00040,Rodriguez Group Ltd.,,Corporate,Consulting,No,Financial risk analyst,Audit Report,104820,5307974,63888,Medium,True,True,True,31,Low,2024-12-14,2026-10-10,Latvia
+C00041,Jennifer Jones,1970-01-16,Individual,,Related,Seismic interpreter,Exchange Statement,237286,9758155,55970,Medium,False,False,False,29,Low,2024-07-27,2028-05-27,Romania
+C00042,John Torres,1991-05-15,Individual,,No,Commercial art gallery manager,Exchange Statement,134735,3050888,187429,Low,False,True,True,33,Low,2025-07-04,2026-01-07,Czech Republic
+C00043,Davidson and Sons Ltd.,,Corporate,Real Estate,Yes,"Geneticist, molecular",Exchange Statement,40769,8568772,116867,Medium,False,True,False,60,Medium,2025-02-05,2027-08-22,Latvia
+C00044,"Coleman, Wyatt and Cox Ltd.",,Corporate,Investment,No,Health and safety inspector,Exchange Statement,99735,4113879,76984,Medium,False,True,False,86,High,2024-08-10,2025-07-30,Switzerland
+C00045,Arnold-Diaz Ltd.,,Corporate,Finance,No,Structural engineer,Audit Report,102955,3979923,105410,Low,True,True,True,37,Low,2025-04-24,2027-05-20,Croatia
+C00046,"Hutchinson, Rodgers and Pope Ltd.",,Corporate,Finance,No,Database administrator,Exchange Statement,104925,6634336,158112,Low,True,False,False,46,Medium,2025-02-20,2025-09-18,Spain
+C00047,Carroll-Thomas Ltd.,,Corporate,Finance,No,Archaeologist,Financials,107969,9262579,163139,Medium,True,False,True,73,High,2025-07-08,2027-01-31,Netherlands
+C00048,"Miller, Ross and Jacobs Ltd.",,Corporate,Crypto Trading,No,Optometrist,Trust Deed,45311,2868991,127523,Low,True,True,False,71,High,2025-03-22,2026-03-22,France
+C00049,Laura Keller,1986-02-21,Individual,,No,Agricultural consultant,Audit Report,46363,4464698,104379,Low,False,True,False,79,High,2024-10-01,2026-12-23,Slovenia
+C00050,"Wilson, Fernandez and Jones Ltd.",,Corporate,Investment,Yes,Fish farm manager,Land Title,93707,1474158,128288,Low,True,True,False,73,High,2024-11-04,2026-03-29,Netherlands
+C00051,The Jones Trust,,Trust,,No,Psychiatrist,Audit Report,68693,3444717,10342,Medium,True,True,True,23,Low,2024-12-06,2026-11-11,Latvia
+C00052,The Carey Trust,,Trust,,No,Oceanographer,Land Title,111932,2915034,163831,Low,True,True,False,52,Medium,2024-11-28,2026-09-30,Malta
+C00053,The Johnson Trust,,Trust,,Related,Software engineer,Exchange Statement,65658,3427421,24922,Low,True,True,False,68,Medium,2024-11-29,2025-09-05,Denmark
+C00054,The Nichols Trust,,Trust,Investment,No,Clinical embryologist,Tax Return,58431,8588613,174749,Low,False,True,False,67,Medium,2025-03-12,2027-05-31,Cyprus
+C00055,Sharon Rodriguez,1965-10-30,Individual,,No,Musician,Trust Deed,100211,7406261,51173,Low,False,False,False,78,High,2025-07-08,2028-01-06,Greece
+C00056,The Dean Trust,,Trust,Consulting,No,Solicitor,Land Title,42747,7663202,68927,Medium,False,False,False,31,Low,2025-04-16,2028-05-31,Romania
+C00057,Pena Group Ltd.,,Corporate,Investment,No,Interior and spatial designer,Land Title,99150,5809938,78310,Low,False,True,True,65,Medium,2025-04-07,2026-02-03,Czech Republic
+C00058,Joseph Washington,1966-05-06,Individual,,No,"Surveyor, building",Trust Deed,269609,8334615,122486,Low,True,True,False,50,Medium,2024-09-11,2026-05-19,Lithuania
+C00059,"Fernandez, Alvarado and Smith Ltd.",,Corporate,Manufacturing,No,"Teacher, adult education",Exchange Statement,105725,9385735,144177,Medium,False,False,False,67,Medium,2024-11-17,2027-04-16,United Kingdom
+C00060,The Rodriguez Trust,,Trust,Crypto Trading,No,TEFL teacher,Trust Deed,75773,3331028,87719,Low,True,True,True,35,Low,2025-03-16,2028-05-07,Romania
+C00061,The Merritt Trust,,Trust,Crypto Trading,No,"Doctor, general practice",Financials,107435,4847930,31352,Low,True,False,True,87,High,2025-04-05,2025-12-03,Switzerland
+C00062,Andrew Lewis,1961-05-26,Individual,,No,Farm manager,Land Title,43863,1014794,150059,Medium,False,True,False,36,Low,2025-04-11,2026-11-19,Latvia
+C00063,Eugene Lopez,1993-09-02,Individual,,No,"Buyer, industrial",Land Title,116659,961958,71185,Low,False,True,True,76,High,2025-01-16,2027-04-29,Switzerland
+C00064,Malone-Romero Ltd.,,Corporate,,No,Office manager,Audit Report,96886,9542881,84648,Medium,True,True,True,39,Low,2024-10-26,2026-03-11,Austria
+C00065,The Chang Trust,,Trust,Consulting,No,Clinical biochemist,Exchange Statement,106803,7658378,121056,Low,False,True,False,86,High,2025-05-22,2027-05-16,Malta
+C00066,The Todd Trust,,Trust,Manufacturing,No,Fisheries officer,Land Title,71551,1462099,46171,Medium,True,False,True,47,Medium,2025-07-15,2026-01-29,Germany
+C00067,Christina Crawford,1988-09-13,Individual,,No,Investment analyst,Land Title,37112,3983526,80524,Medium,False,False,True,80,High,2025-05-13,2027-06-12,Italy
+C00068,Stokes-Myers Ltd.,,Corporate,Investment,No,Product designer,Exchange Statement,51394,2025626,147753,Low,True,True,False,45,Medium,2025-07-07,2026-03-29,Austria
+C00069,Samuel Evans,1962-05-03,Individual,,No,"Scientist, research (life sciences)",Exchange Statement,85197,7963447,185532,Medium,False,False,False,56,Medium,2025-01-28,2028-03-24,Croatia
+C00070,Hancock and Sons Ltd.,,Corporate,,No,Legal executive,Financials,109092,4300476,11780,Medium,True,True,True,61,Medium,2024-11-25,2027-11-11,Switzerland
+C00071,The Smith Trust,,Trust,,No,"Engineer, site",Trust Deed,43890,7519378,77917,Low,True,False,False,86,High,2024-08-17,2027-04-30,Greece
+C00072,Robinson-Mccormick Ltd.,,Corporate,Finance,No,Neurosurgeon,Audit Report,81606,5633187,112910,Low,False,False,False,33,Low,2025-07-10,2028-01-18,Sweden
+C00073,"Turner, Andersen and Murray Ltd.",,Corporate,,No,Management consultant,Financials,50627,119311,177401,Low,False,False,True,71,High,2024-11-16,2027-03-22,Slovenia
+C00074,The Ball Trust,,Trust,Finance,No,Ranger/warden,Tax Return,48792,3515140,75007,Low,True,False,False,76,High,2024-10-17,2026-09-21,Slovakia
+C00075,Joseph Clark,1993-12-17,Individual,,No,Ophthalmologist,Trust Deed,103035,5313522,149399,Medium,True,False,True,50,Medium,2025-05-01,2026-04-07,France
+C00076,David Collins,1984-03-16,Individual,,No,"Therapist, drama",Exchange Statement,173019,8637455,189919,Low,False,False,False,39,Low,2025-02-28,2028-05-19,Estonia
+C00077,Brandi Miller,1975-06-18,Individual,,No,Arts administrator,Financials,286464,2390229,23300,Low,False,False,False,44,Medium,2024-11-02,2027-03-05,Belgium
+C00078,Joshua Shepherd,1959-12-27,Individual,,No,Health physicist,Audit Report,254119,9135882,131967,Low,False,False,False,82,High,2025-05-12,2027-05-10,Estonia
+C00079,"Padilla, Smith and Riley Ltd.",,Corporate,Investment,No,Maintenance engineer,Audit Report,113969,6991662,16441,Medium,False,True,False,69,Medium,2024-10-19,2028-04-29,Sweden
+C00080,The Acosta Trust,,Trust,Investment,Yes,Firefighter,Tax Return,83001,2218060,136672,High,False,True,False,83,High,2024-10-09,2025-08-25,Luxembourg
+C00081,The Nolan Trust,,Trust,Crypto Trading,No,Engineering geologist,Tax Return,116552,7976745,74474,Low,False,False,True,39,Low,2025-01-20,2028-07-15,United Kingdom
+C00082,The Castillo Trust,,Trust,Investment,No,Colour technologist,Financials,63897,702286,166863,High,True,True,False,82,High,2025-05-22,2026-04-05,Bulgaria
+C00083,The Lyons Trust,,Trust,,No,Mining engineer,Exchange Statement,108148,2891137,186928,Low,False,True,True,32,Low,2024-12-25,2026-05-29,Bulgaria
+C00084,David Christensen,1962-05-03,Individual,,No,Illustrator,Audit Report,298484,7013081,153354,Low,True,True,True,38,Low,2025-06-19,2028-06-21,Portugal
+C00085,The Martinez Trust,,Trust,Investment,No,Site engineer,Financials,63483,2501116,65866,Medium,False,False,False,83,High,2025-01-06,2028-05-17,Italy
+C00086,The Rodriguez Trust,,Trust,,Yes,Recruitment consultant,Trust Deed,88555,9270395,46412,Low,True,False,False,56,Medium,2024-09-02,2027-05-29,Slovenia
+C00087,The Nelson Trust,,Trust,Crypto Trading,No,"Presenter, broadcasting",Audit Report,57159,6554081,131670,Low,True,True,False,58,Medium,2024-09-30,2027-10-13,Bulgaria
+C00088,The Walker Trust,,Trust,Finance,Related,Radio broadcast assistant,Land Title,75920,235861,153354,Low,True,False,False,70,High,2025-01-20,2027-06-01,Romania
+C00089,The Williams Trust,,Trust,Investment,No,"Production designer, theatre/television/film",Trust Deed,107121,2394774,169691,Medium,True,True,False,52,Medium,2024-10-26,2027-07-16,Lithuania
+C00090,Carol Nichols,1978-09-17,Individual,,No,"Journalist, broadcasting",Land Title,191294,7070985,51042,Medium,True,True,False,31,Low,2024-10-02,2027-08-21,Romania
+C00091,Tina Ward,1972-05-07,Individual,,No,Health and safety adviser,Land Title,197584,2032227,127770,Medium,True,False,True,81,High,2025-02-24,2025-08-09,Cyprus
+C00092,The Massey Trust,,Trust,Finance,No,"Surveyor, building control",Financials,109479,2173474,124219,Low,False,False,False,53,Medium,2025-05-14,2026-08-02,Cyprus
+C00093,Taylor Gardner,1968-08-18,Individual,,No,Chief Financial Officer,Financials,136060,1160605,171567,Low,False,False,False,61,Medium,2024-11-15,2026-07-04,Norway
+C00094,Sherri Peterson,1985-09-20,Individual,,No,Set designer,Tax Return,70956,4039290,145914,Low,True,False,False,83,High,2024-12-04,2027-05-16,Italy
+C00095,The Nelson Trust,,Trust,Manufacturing,No,Exercise physiologist,Exchange Statement,59457,1761307,133279,Low,False,False,True,39,Low,2024-09-08,2026-05-20,United Kingdom
+C00096,Alexander Wolf,1998-01-18,Individual,,No,"Engineer, agricultural",Tax Return,212589,9234621,174037,High,False,True,False,66,Medium,2024-10-16,2027-08-16,Lithuania
+C00097,Joshua Blackwell,1975-02-12,Individual,,Related,Chiropodist,Tax Return,131204,458318,18258,High,False,True,True,78,High,2025-06-12,2026-05-22,Czech Republic
+C00098,Kevin Davis,1965-03-11,Individual,,Yes,Graphic designer,Audit Report,192259,2575548,161233,Low,True,False,True,47,Medium,2024-08-10,2025-10-17,Finland
+C00099,The Peterson Trust,,Trust,Finance,No,"Civil engineer, contracting",Audit Report,106557,349314,98911,Low,True,False,True,23,Low,2025-06-27,2025-08-13,Latvia
+C00100,Edwards-Boyle Ltd.,,Corporate,,No,Purchasing manager,Trust Deed,117189,1166326,129845,Low,False,False,True,34,Low,2024-09-06,2025-11-03,Spain
